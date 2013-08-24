@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  survey_name: MyString
+  project_id: 1
+  brand_id: 1
+
+two:
+  survey_name: MyString
+  project_id: 1
+  brand_id: 1
