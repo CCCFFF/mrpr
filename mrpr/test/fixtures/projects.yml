@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  project_name: MyString
+  company_id: 1
+  brand_id: 1
+  project_manager_id: 1
+  admin_id: 1
+
+two:
+  project_name: MyString
+  company_id: 1
+  brand_id: 1
+  project_manager_id: 1
+  admin_id: 1

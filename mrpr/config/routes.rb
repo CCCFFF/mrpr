@@ -1,4 +1,6 @@
 Mrpr::Application.routes.draw do
+  resources :projects
+
   resources :companies
 
   resources :users
